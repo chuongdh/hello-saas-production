@@ -1,0 +1,16 @@
+datasource:
+  workspace: activities2
+  autoCreate: true
+model:
+  nodeType: activity2
+  properties:
+    name:
+      label: Name 2
+      i18n: true
+      required: true
+    description:
+      type: richText
+      label: Description 2
+      i18n: true
+      required: false
+
