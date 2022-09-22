@@ -1,6 +1,6 @@
 !content-type:activity1
 name: activities1-app
-label: Activities 10
+label: Activities 9
 
 #Optionally override any of the app configuration supplied by the content type.
 subApps:
