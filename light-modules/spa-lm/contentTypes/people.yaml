@@ -1,0 +1,11 @@
+datasource:
+  $type: norsuContentTypeDatasource
+  workspace: people
+  autoCreate: true
+
+model:
+  properties:
+    - name: fullName
+      required: true
+    - name: description
+      type: richText
